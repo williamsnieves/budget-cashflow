@@ -1,0 +1,24 @@
+@import "tailwindcss";
+
+:root {
+  --color-bg: #F5F7FA;
+  --color-bg-card: #FFFFFF;
+  --color-bg-surface: #F9FAFB;
+  --color-text-primary: #0F172A;
+  --color-text-secondary: #6B7280;
+  --color-accent-green: #22C55E;
+  --color-accent-green-dark: #166534;
+  --color-accent-red: #F87171;
+  --color-border: #E5E7EB;
+  --color-promo-start: #0B1F3A;
+  --color-promo-end: #1E3A5F;
+  --shadow-card: 0 4px 12px rgba(0, 0, 0, 0.05);
+  --radius-card: 14px;
+}
+
+body {
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+  background-color: var(--color-bg);
+  color: var(--color-text-primary);
+  margin: 0;
+}
