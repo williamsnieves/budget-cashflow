@@ -1,0 +1,51 @@
+Date,Description,Amount,Category,Status
+2026-01-03,Starbucks Coffee,-5.75,Food & Dining,cleared
+2026-01-05,Client Payment - Acme Corp,3200.00,Income,cleared
+2026-01-06,Rent Payment,-1450.00,Housing,cleared
+2026-01-07,Uber Ride,-12.30,Transportation,cleared
+2026-01-08,Electric Bill,-89.50,Utilities,cleared
+2026-01-10,Netflix Subscription,-15.99,Entertainment,pending
+2026-01-12,Grocery Store Whole Foods,-87.32,Food & Dining,cleared
+2026-01-14,Freelance Design Project,1500.00,Income,cleared
+2026-01-15,Gym Membership,-49.99,Personal,cleared
+2026-01-17,Amazon Purchase,-34.99,Shopping,pending
+2026-01-18,Doctor Visit Copay,-25.00,Healthcare,cleared
+2026-01-20,Water Bill,-42.75,Utilities,cleared
+2026-01-22,Spotify Premium,-9.99,Entertainment,pending
+2026-01-23,Client Retainer - TechStartup,4500.00,Income,cleared
+2026-01-25,Gas Station Fill-Up,-45.20,Transportation,cleared
+2026-01-26,Restaurant Dinner Out,-68.50,Food & Dining,cleared
+2026-01-28,Internet Service,-59.99,Utilities,cleared
+2026-01-30,Consulting Bonus,800.00,Income,cleared
+2026-02-01,Starbucks Coffee,-6.25,Food & Dining,cleared
+2026-02-03,Rent Payment,-1450.00,Housing,cleared
+2026-02-04,Client Payment - Beta Inc,2800.00,Income,cleared
+2026-02-06,Lunch Delivery,-18.90,Food & Dining,pending
+2026-02-07,Uber Ride,-14.50,Transportation,cleared
+2026-02-09,Phone Bill,-75.00,Utilities,cleared
+2026-02-11,Book Purchase Amazon,-24.99,Shopping,cleared
+2026-02-13,Freelance Writing Gig,950.00,Income,cleared
+2026-02-15,Grocery Store Trader Joes,-72.40,Food & Dining,cleared
+2026-02-17,Parking Fee,-8.00,Transportation,pending
+2026-02-19,Hulu Subscription,-17.99,Entertainment,cleared
+2026-02-21,Dental Checkup,-35.00,Healthcare,cleared
+2026-02-23,Client Retainer - CloudOps,4500.00,Income,cleared
+2026-02-25,Clothing Store Purchase,-55.00,Shopping,pending
+2026-02-27,Gas Station,-42.10,Transportation,cleared
+2026-02-28,Electric Bill,-95.30,Utilities,cleared
+2026-03-01,Starbucks Coffee,-5.50,Food & Dining,cleared
+2026-03-03,Rent Payment,-1450.00,Housing,cleared
+2026-03-04,Consulting Project,3200.00,Income,cleared
+2026-03-06,Tax Preparation Fee,-250.00,Personal,pending
+2026-03-08,Grocery Store,-91.15,Food & Dining,cleared
+2026-03-10,Uber Ride,-11.75,Transportation,cleared
+2026-03-12,Client Payment - DataFlow,1800.00,Income,cleared
+2026-03-14,Home Insurance,-120.00,Housing,cleared
+2026-03-16,Movie Theater,-28.00,Entertainment,cleared
+2026-03-18,Internet Service,-59.99,Utilities,cleared
+2026-03-20,Side Project Bonus,750.00,Income,pending
+2026-03-22,Pet Supplies,-42.99,Shopping,cleared
+2026-03-24,Pharmacy,-18.50,Healthcare,cleared
+2026-03-26,Lunch Cafe,-14.75,Food & Dining,cleared
+2026-03-28,Electric Bill,-78.90,Utilities,cleared
+2026-03-30,Client Retainer - AppWorks,4500.00,Income,cleared
