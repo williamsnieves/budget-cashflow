@@ -170,6 +170,16 @@ Types → DB (IndexedDB) → Services → React Context → Pages/Components
 - `feat/init-specs` — All OpenSpec change artifacts (merged via PR #1)
 - `feat/implement-specs` — Full implementation (this branch)
 
+## AI Assistance
+
+This project was built with **GLM-5.1** (`opencode-go/glm-5.1`) as the coding assistant. The model was used across all phases:
+
+- **Spec creation** — Authored OpenSpec change artifacts (proposals, specs, designs, tasks) driven by the PRD and UI references
+- **Implementation** — Wrote all application code, services, and components
+- **Debugging** — Resolved TypeScript build errors and type mismatches
+
+The OpenSpec-first workflow ensured specs were the source of truth before any code was written.
+
 ## License
 
 Private
